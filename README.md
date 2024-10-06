@@ -1,7 +1,8 @@
 # Masters_Project
 X Real-Time Bad Behavior Detector
 
-Abstract
+<ins> Abstract </ins>
+
 Social media and the internet have connected the world like never before. This connectivity,
 while hugely beneficial, has some stark negatives. One such negative is the advent of
 cyberbullying. Cyberbullying takes place on many social media platforms, such as X, formerly
@@ -13,6 +14,7 @@ moderation this model is streaming-based, which should allow it to better adapt 
 cyberbullying techniques. This model is an ensemble-based voting classifier that utilizes an X
 post’s characteristics as well as natural language encoding of the raw text of the post. The project
 utilizes X posts collected and labeled from prior research.
+
 The proposed ensemble-based voting classifier was able to perform competitively with traditional
 batched-based classification models and other streaming-based classification models. The
 proposed model’s accuracy, f1, recall, and precision scores were in line with or outperformed the
